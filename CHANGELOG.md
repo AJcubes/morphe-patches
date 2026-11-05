@@ -1,3 +1,9 @@
+## [1.0.0-dev.2](https://github.com/AJcubes/morphe-patches/compare/v1.0.0-dev.1...v1.0.0-dev.2) (2026-11-05)
+
+### ✨ New Features
+
+* map patch to the correct lockmeout compatibility rule constant ([fee73dc](https://github.com/AJcubes/morphe-patches/commit/fee73dc6ea92c6e9a1dabfa6f8bdade691ca4141))
+
 ## 1.0.0-dev.1 (2026-11-05)
 
 ### ✨ New Features
