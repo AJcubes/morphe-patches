@@ -7,7 +7,7 @@ import app.morphe.patcher.patch.bytecodePatch
 val lockMeOutPremiumPatch = bytecodePatch(
     name = "Unlock Premium",
     description = "Dynamically injects a return-early bypass into the main license gate.",
-    default = true // ADD THIS LINE: Tells Morphe this patch is enabled by default
+    default = false // CHANGE THIS TO FALSE: Satisfies the universal patch security gate
 ) {
     execute {
         IsPremiumLicenseCheckFingerprint.method.addInstructions(
