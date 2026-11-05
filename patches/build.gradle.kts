@@ -1,12 +1,12 @@
-group = "app.template"
+group = "aj.cubes"
 
 patches {
     // TODO: Update this section with your project details.
     about {
-        name = "UserXYZ Patches"
-        description = "Patches for apps I like"
-        source = "git@github.com:UserXYZ/morphe-patches.git"
-        author = "Awesome dev"
+        name = "Lock Me Out Premium"
+        description = "Premium unlocked for Lock Me Out"
+        source = "https://github.com/AJcubes/morphe-patches"
+        author = "AJ-cubes"
         contact = "na"
         website = "na"
         license = "GPLv3"
