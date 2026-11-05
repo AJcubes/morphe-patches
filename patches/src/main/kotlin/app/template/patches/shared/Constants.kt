@@ -6,6 +6,20 @@ import app.morphe.patcher.patch.Compatibility
 import app.morphe.patcher.patch.SupportedAbi
 
 object Constants {
+    val LOCKMEOUT_COMPATIBILITY = Compatibility(
+        name = "LockMeOut",
+        packageName = "com.teqtic.lockmeout",
+        apkFileType = ApkFileType.APK,
+        appIconColor = 0x98373A, // Matches standard launcher theme overlays
+        targets = listOf(
+            // Setting version to null allows it to dynamically scan and target any latest version
+            AppTarget(
+                version = null,
+                isExperimental = true
+            )
+        )
+    )
+
     val COMPATIBILITY_EXAMPLE = Compatibility(
         name = "XYZ app", // App name as it appears in the Android launcher.
         packageName = "com.example.app",

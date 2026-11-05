@@ -1,7 +1,6 @@
 group = "aj.cubes"
 
 patches {
-    // TODO: Update this section with your project details.
     about {
         name = "Lock Me Out Premium"
         description = "Premium unlocked for Lock Me Out"
