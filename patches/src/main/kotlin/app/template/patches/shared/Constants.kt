@@ -20,6 +20,14 @@ object Constants {
         )
     )
 
+    val MACRODROID_COMPATIBILITY = Compatibility(
+        name = "MacroDroid",
+        packageName = "com.arlosoft.macrodroid",
+        apkFileType = ApkFileType.APK,
+        appIconColor = 0x2196F3,
+        targets = listOf(AppTarget(version = "6.1.5", versionCode = 901000005))
+    )
+
     val COMPATIBILITY_EXAMPLE = Compatibility(
         name = "XYZ app", // App name as it appears in the Android launcher.
         packageName = "com.example.app",
