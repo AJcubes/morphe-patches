@@ -25,7 +25,19 @@ object Constants {
         packageName = "com.arlosoft.macrodroid",
         apkFileType = ApkFileType.APK,
         appIconColor = 0x2196F3,
-        targets = listOf(AppTarget(version = "6.1.5", versionCode = 901000005))
+        targets = listOf(
+            AppTarget(version = "6.1.5")
+        )
+    )
+
+    val CRICBUZZ_COMPATIBILITY = Compatibility(
+        name = "Cricbuzz",
+        packageName = "com.cricbuzz.android",
+        apkFileType = ApkFileType.APKM,
+        appIconColor = 0x1B5E20,
+        targets = listOf(
+            AppTarget(version = "16.12.00")
+        )
     )
 
     val COMPATIBILITY_EXAMPLE = Compatibility(

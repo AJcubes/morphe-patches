@@ -31,7 +31,7 @@ import com.android.tools.smali.dexlib2.iface.reference.FieldReference
 @Suppress("unused")
 val macroDroidProPatch = bytecodePatch(
     name = "Unlock Pro",
-    description = "Unlocks Pro for MacroDroid - Device Automation.",
+    description = "Unlocks Pro for MacroDroid - Device Automation (always up to date with latest version!)",
 ) {
     compatibleWith(MACRODROID_COMPATIBILITY)
 

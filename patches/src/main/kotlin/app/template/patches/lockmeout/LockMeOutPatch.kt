@@ -23,7 +23,7 @@ private val makeDebuggablePatch = resourcePatch(
 @Suppress("unused")
 val lockMeOutPremiumPatch = bytecodePatch(
     name = "Unlock Premium",
-    description = "Dynamically injects a return-early bypass into the main license gate and enables debugging.",
+    description = "Dynamically injects a return-early bypass into the main license gate and enables debugging (always up to date with latest version!)",
     default = true
 ) {
     compatibleWith(LOCKMEOUT_COMPATIBILITY)
