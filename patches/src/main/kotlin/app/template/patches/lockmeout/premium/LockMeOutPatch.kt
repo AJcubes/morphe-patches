@@ -1,4 +1,4 @@
-package app.template.patches.lockmeout
+package app.template.patches.lockmeout.premium
 
 import app.morphe.patcher.extensions.InstructionExtensions.addInstructions
 import app.morphe.patcher.patch.bytecodePatch
