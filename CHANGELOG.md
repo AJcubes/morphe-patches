@@ -1,3 +1,9 @@
+## [1.6.0](https://github.com/AJcubes/morphe-patches/compare/v1.5.0...v1.6.0) (2026-11-20)
+
+### ✨ New Features
+
+* reformat LockMeOut ([0e555d6](https://github.com/AJcubes/morphe-patches/commit/0e555d66ddef9809a4f82b4044b825e743aa14af))
+
 ## [1.5.0](https://github.com/AJcubes/morphe-patches/compare/v1.4.0...v1.5.0) (2026-11-20)
 
 ### ✨ New Features
