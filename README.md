@@ -19,7 +19,25 @@ Click the button below, or manually add this repo url to Morphe Manager: https:/
 ## 🩹 Patches list
 
 <!-- PATCHES_START EXPANDED -->
-> **[v1.4.0](https://github.com/AJcubes/morphe-patches/releases/tag/v1.4.0)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;5 patches total
+> **[v1.5.0](https://github.com/AJcubes/morphe-patches/releases/tag/v1.5.0)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;7 patches total
+<details open>
+<summary>📦 Cricbuzz&nbsp;&nbsp;•&nbsp;&nbsp;2 patches</summary>
+<br>
+
+**Package name:** `com.cricbuzz.android`
+
+**🎯 Supported versions:**
+
+| 16.12.00 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Cricbuzz Disable Ads](#cricbuzz-disable-ads) | Removes all ads including banner, interstitial, video, and app open ads (always up to date with latest version!) |  |
+| [Cricbuzz Premium](#cricbuzz-premium) | Unlocks premium features like live streaming and premium articles (always up to date with latest version!) |  |
+
+</details>
+
 <details open>
 <summary>📦 LockMeOut&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
 <br>
@@ -28,7 +46,7 @@ Click the button below, or manually add this repo url to Morphe Manager: https:/
 
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
 |----------|----------------|-----------|
-| [Unlock Premium](#unlock-premium) | Dynamically injects a return-early bypass into the main license gate and enables debugging. |  |
+| [Unlock Premium](#unlock-premium) | Dynamically injects a return-early bypass into the main license gate and enables debugging (always up to date with latest version!) |  |
 
 </details>
 
@@ -45,7 +63,7 @@ Click the button below, or manually add this repo url to Morphe Manager: https:/
 
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
 |----------|----------------|-----------|
-| [Unlock Pro](#unlock-pro) | Unlocks Pro for MacroDroid - Device Automation. |  |
+| [Unlock Pro](#unlock-pro) | Unlocks Pro for MacroDroid - Device Automation (always up to date with latest version!) |  |
 
 </details>
 

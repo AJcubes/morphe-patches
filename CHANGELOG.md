@@ -1,3 +1,9 @@
+## [1.5.0](https://github.com/AJcubes/morphe-patches/compare/v1.4.0...v1.5.0) (2026-11-20)
+
+### ✨ New Features
+
+* add Cricbuzz ([ccafc8e](https://github.com/AJcubes/morphe-patches/commit/ccafc8ebb6aa91865ac6f1445618d0ffeeb5d81e))
+
 ## [1.4.0](https://github.com/AJcubes/morphe-patches/compare/v1.3.0...v1.4.0) (2026-11-20)
 
 ### ✨ New Features

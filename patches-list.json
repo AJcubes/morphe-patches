@@ -1,7 +1,61 @@
 {
   "NOTE": "Do NOT manually edit this file. This file is automatically updated when semantic release (release.yml) runs. Manually editing this file can break your releases and break third party tools that use this file.",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "patches": [
+    {
+      "name": "Cricbuzz Disable Ads",
+      "description": "Removes all ads including banner, interstitial, video, and app open ads (always up to date with latest version!)",
+      "default": true,
+      "category": null,
+      "compatiblePackages": [
+        {
+          "packageName": "com.cricbuzz.android",
+          "name": "Cricbuzz",
+          "description": null,
+          "apkFileType": "APKM",
+          "appIconColor": "#1B5E20",
+          "signatures": null,
+          "formFactor": "MOBILE",
+          "targets": [
+            {
+              "version": "16.12.00",
+              "versionCodes": null,
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            }
+          ]
+        }
+      ],
+      "options": []
+    },
+    {
+      "name": "Cricbuzz Premium",
+      "description": "Unlocks premium features like live streaming and premium articles (always up to date with latest version!)",
+      "default": true,
+      "category": null,
+      "compatiblePackages": [
+        {
+          "packageName": "com.cricbuzz.android",
+          "name": "Cricbuzz",
+          "description": null,
+          "apkFileType": "APKM",
+          "appIconColor": "#1B5E20",
+          "signatures": null,
+          "formFactor": "MOBILE",
+          "targets": [
+            {
+              "version": "16.12.00",
+              "versionCodes": null,
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            }
+          ]
+        }
+      ],
+      "options": []
+    },
     {
       "name": "Provide Original app certificate",
       "description": "Automatically reads the signing certificate from the APK you are patching — no original app installed or file provided needed. Only fill the options below if you are patching an APK that was already re-signed (e.g. a previously patched build): in that case point to the original APK file, or enter the certificate manually.",
@@ -92,7 +146,7 @@
     },
     {
       "name": "Unlock Premium",
-      "description": "Dynamically injects a return-early bypass into the main license gate and enables debugging.",
+      "description": "Dynamically injects a return-early bypass into the main license gate and enables debugging (always up to date with latest version!)",
       "default": true,
       "category": null,
       "compatiblePackages": [
@@ -119,7 +173,7 @@
     },
     {
       "name": "Unlock Pro",
-      "description": "Unlocks Pro for MacroDroid - Device Automation.",
+      "description": "Unlocks Pro for MacroDroid - Device Automation (always up to date with latest version!)",
       "default": true,
       "category": null,
       "compatiblePackages": [
@@ -134,12 +188,7 @@
           "targets": [
             {
               "version": "6.1.5",
-              "versionCodes": {
-                "ARM64_V8A": 901000005,
-                "ARMEABI_V7A": 901000005,
-                "X86_64": 901000005,
-                "X86": 901000005
-              },
+              "versionCodes": null,
               "isExperimental": false,
               "minSdk": null,
               "description": null
