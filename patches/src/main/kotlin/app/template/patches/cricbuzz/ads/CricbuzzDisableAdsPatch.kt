@@ -1,4 +1,4 @@
-package app.paresh.patches.cricbuzz.ads
+package app.template.patches.cricbuzz.ads
 
 import app.morphe.patcher.extensions.InstructionExtensions.addInstructions
 import app.morphe.patcher.patch.bytecodePatch

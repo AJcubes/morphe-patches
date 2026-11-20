@@ -1,4 +1,4 @@
-package app.paresh.patches.cricbuzz.premium
+package app.template.patches.cricbuzz.premium
 
 import app.morphe.patcher.Fingerprint
 import com.android.tools.smali.dexlib2.AccessFlags
