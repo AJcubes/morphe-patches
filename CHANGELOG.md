@@ -1,3 +1,9 @@
+## [1.7.0](https://github.com/AJcubes/morphe-patches/compare/v1.6.0...v1.7.0) (2026-11-20)
+
+### ✨ New Features
+
+* reformat Cricbuzz (maybe more too) ([75a0186](https://github.com/AJcubes/morphe-patches/commit/75a0186859d67248b915700288232f9514e7ffa7))
+
 ## [1.6.0](https://github.com/AJcubes/morphe-patches/compare/v1.5.0...v1.6.0) (2026-11-20)
 
 ### ✨ New Features
