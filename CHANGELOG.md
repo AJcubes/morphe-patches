@@ -1,3 +1,9 @@
+## [1.4.0](https://github.com/AJcubes/morphe-patches/compare/v1.3.0...v1.4.0) (2026-11-20)
+
+### ✨ New Features
+
+* add MacroDroid ([0e15dab](https://github.com/AJcubes/morphe-patches/commit/0e15dab6803a3c3d0083ddea0f84173ed13f7571))
+
 ## [1.3.0](https://github.com/AJcubes/morphe-patches/compare/v1.2.0...v1.3.0) (2026-11-08)
 
 ### ✨ New Features
