@@ -1,3 +1,9 @@
+## [1.9.0](https://github.com/AJcubes/morphe-patches/compare/v1.8.0...v1.9.0) (2026-11-21)
+
+### ✨ New Features
+
+* update gmsCore in Macrodroid and bump up version ([179daf7](https://github.com/AJcubes/morphe-patches/commit/179daf7970e26edfc383878428d209de90cb3602))
+
 ## [1.8.0](https://github.com/AJcubes/morphe-patches/compare/v1.7.0...v1.8.0) (2026-11-21)
 
 ### ✨ New Features
